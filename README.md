@@ -29,7 +29,7 @@ The dataset contains every transaction made by a UK-based online retailer betwee
 | **Country** | Customer country |
 
 The data comes from real e-commerce transactions, not a synthetic educational dataset.
-
+Chen, D. (2012). Online Retail II [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D.
 
 ## Tech Stack
 PySpark
