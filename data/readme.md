@@ -1,3 +1,5 @@
 # Data
 
-Original datasets are not included due to licensing, privacy, or size constraints.
+The dataset is not included in this repository due to size.
+Download the Online Retail II dataset from the UCI Machine Learning Repository and place it in:
+data/online_retail_II.xlsx
