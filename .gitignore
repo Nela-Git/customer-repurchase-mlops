@@ -5,24 +5,19 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Virtual environments
+# Virtual environment
 venv/
-env/
+.venv/
 
-# Secrets
-.env
-
-# Data
-data/
-*.csv
-*.xlsx
-*.parquet
+# MLflow
+mlruns/
 
 # Models
-*.pkl
-*.joblib
-*.h5
-*.keras
+models/*.pkl
+models/*.joblib
+
+# VS Code
+.vscode/
 
 # OS files
 .DS_Store
