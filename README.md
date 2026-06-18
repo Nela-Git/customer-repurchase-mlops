@@ -4,7 +4,7 @@ A collection of end-to-end data science projects demonstrating machine learning,
 ---
 
 ## Project#4
-###Customer Repurchase Prediction API 
+## Customer Repurchase Prediction API 
 
 *Business problem* 
 Retailers spend a lot of money acquiring customers. Predict which customers are likely to make another purchase so marketing campaigns can be targeted efficiently.
