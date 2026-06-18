@@ -1,0 +1,48 @@
+# Core
+pandas
+numpy
+scipy
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Time Series
+statsmodels
+pmdarima
+sktime
+
+# Deep Learning
+tensorflow
+keras
+torch
+
+# Foundation Models
+nixtla
+
+# Hyperparameter Tuning
+hyperopt
+
+# NLP & Sentiment
+transformers
+bertopic
+sentence-transformers
+gensim
+nltk
+
+# LLMs
+openai
+
+# Utilities
+openpyxl
+xlsxwriter
+
+# Notebook
+jupyter
+notebook
