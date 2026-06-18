@@ -3,17 +3,29 @@
 A collection of end-to-end data science projects demonstrating machine learning, time-series forecasting, NLP, and sentiment analysis applied to real-world business problems.
 ---
 
-## Project#1 
+## Project#4
+###Customer Repurchase Prediction API 
 
-![Banner](images/auto_banner.png)
+*Business problem* 
+Retailers spend a lot of money acquiring customers. Predict which customers are likely to make another purchase so marketing campaigns can be targeted efficiently.
+
+*Methodology*
+Used PySpark to process transaction-level retail data, engineered RFM features, tracked experiments with MLflow, and deployed a customer repurchase prediction API using FastAPI.
 
 ## Tech Stack
-### Data Science & Machine Learning
-- Python, Pandas, NumPy, Scikit-learn, TensorFlow / Keras, XGBoost
+PySpark
+    ↓
+Feature Engineering (RFM)
+    ↓
+Random Forest / XGBoost
+    ↓
+MLflow
+    ↓
+Model Registry
+    ↓
+FastAPI
+    ↓
+Prediction Endpoint
 
-### Time-Series Forecasting
-- SARIMAX, Random Forest, TimeGPT, PatchTST
-
-
-**Notebook:** [View the complete analysis] (https://github.com/Nela-Git/automotive-demand-forecasting/blob/main/notebooks/Automotive_Demand_Forecasting_Git.ipynb)
+**Notebook:** [View the complete analysis] (https://github.com/Nela-Git/automotive-demand-forecasting/blob/main/notebooks/xxx.ipynb)
 
