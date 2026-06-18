@@ -12,6 +12,11 @@ Retailers spend a lot of money acquiring customers. Predict which customers are 
 *Methodology*
 Used PySpark to process transaction-level retail data, engineered RFM features, tracked experiments with MLflow, and deployed a customer repurchase prediction API using FastAPI.
 
+
+*Dataset*
+Online Retail II (UCI Repository)
+The dataset contains every transaction made by a UK-based online retailer between December 2009 and December 2011. The company sells giftware and many customers are wholesalers. It includes over 1 million transaction records, making it large enough to justify using PySpark.
+
 ## Tech Stack
 PySpark
     ↓
