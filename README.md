@@ -32,5 +32,5 @@ FastAPI
     ↓
 Prediction Endpoint
 
-**Notebook:** [View the complete analysis] (https://github.com/Nela-Git/automotive-demand-forecasting/blob/main/notebooks/xxx.ipynb)
+**Notebook:** [View the complete analysis] (https://github.com/Nela-Git/customer-repurchase-mlops/blob/main/notebooks/xxx.ipynb)
 
